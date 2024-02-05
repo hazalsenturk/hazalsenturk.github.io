@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['hazalsenturk/ppmi'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['hazalsenturk/ppmi',], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'TRAP',
           description:
-            'Simple ML model to make diagnostic predictions on PPMI dataset for Parkinson's Disease.',
+            'Simple ML model to make diagnostic predictions on PPMI dataset for Parkinson/s Disease.',
           // imageUrl:
           //   'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/hazalsenturk/ppmi/settings',
